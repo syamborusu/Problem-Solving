@@ -1,0 +1,15 @@
+[33m38d2b77[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m38d2b77[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: commit: Two sum Best #TC AND search
+[33me81331f[m HEAD@{2}: commit: Twosum best tc and sc
+[33m319fed6[m HEAD@{3}: commit: Revised
+[33m6e44442[m HEAD@{4}: commit: modificaion
+[33m31ddbd0[m HEAD@{5}: pull origin main --allow-unrelated-histories: Merge made by the 'ort' strategy.
+[33m3bce692[m[33m ([m[1;32mbackup-local[m[33m)[m HEAD@{6}: commit: Coding practice
+[33mfb7c748[m HEAD@{7}: commit: deleted repeted files
+[33m190b08f[m HEAD@{8}: commit: create lowest number
+[33m49a874a[m HEAD@{9}: commit: none
+[33m286dd81[m HEAD@{10}: commit: alapa patterns
+[33m881d50d[m HEAD@{11}: commit: basic patterns practice
+[33mf1bd217[m HEAD@{12}: commit: added titles
+[33m7a5ea48[m HEAD@{13}: Branch: renamed refs/heads/master to refs/heads/main
+[33m7a5ea48[m HEAD@{15}: commit (initial): some basic practice problems in python
