@@ -24,7 +24,6 @@ for i in range(len(input)):
             count += 1
     if count == 1:
         output.append(input[i])
-
 print(output)
 #TC=O(N^2)
 #SC=O(1)
