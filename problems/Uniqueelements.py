@@ -10,10 +10,8 @@ print(output)
 
 #TC=O(n) #SC=O(n)
 
-
 #=================================
 #Brute force
-
 input = [2, 4, 1, 2, 1, 3]
 output = []
 
