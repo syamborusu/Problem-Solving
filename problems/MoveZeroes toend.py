@@ -1,12 +1,12 @@
 arr = [0, 1, 0, 3, 12]
-pos = 0
-for i in range(len(arr)):
-    if arr[i] != 0:
-        arr[pos] = arr[i]
-        pos += 1
-while pos < len(arr):
-    arr[pos] = 0
-    pos += 1
+pos = 0                   #posistion is intialize to 0th index
+for i in range(len(arr)):        #loop starts from 0 to last index of arr
+    if arr[i] != 0:              #0th index i not equalaa to 0
+        arr[pos] = arr[i]        # pos is assigend with ith value
+        pos += 1                 #Pos increment by 1 posistion ex:pos=1th index
+while pos < len(arr):            #loop runs from value of pos to len of arr
+    arr[pos] = 0                 #pos value is reassigend with zero
+    pos += 1                     #pos will increment by 1 untill last element
 print(arr)
 #TC=O(N),SC=O(1)
 
